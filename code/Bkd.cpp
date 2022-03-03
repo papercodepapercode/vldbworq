@@ -1,4 +1,3 @@
-//Bkd
 #include<cstdio>
 #include<ctime>
 #include<cstdlib>

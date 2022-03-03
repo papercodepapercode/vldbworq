@@ -1,4 +1,3 @@
-//Worq
 #include<cstdio>
 #include<ctime>
 #include<cstdlib>

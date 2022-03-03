@@ -1,4 +1,3 @@
-//LSMR
 #include<cstdio>
 #include<ctime>
 #include<cstdlib>
